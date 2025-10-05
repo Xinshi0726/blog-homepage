@@ -1,0 +1,10 @@
+# ===============
+# Header
+# ===============
+# Navigation menu
+menu:
+  首页: /
+  归档: /archives
+  关于我: /关于我/
+# RSS link
+rss: /atom.xml
